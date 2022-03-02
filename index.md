@@ -8,3 +8,5 @@ A useful link for Markdown Syntax is
 > This is called a Blockquote:<br>
 > ***"It looks Pretty"** 
 > -Stephen Bay, 2022*
+
+![Dancing Spiderman](https://c.tenor.com/F0PvAS2uXMcAAAAC/funny-dancing-spiderman-dancing-spiderman.gif)
